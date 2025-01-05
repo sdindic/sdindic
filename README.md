@@ -6,7 +6,7 @@
         Currently learning to walk in Data Science 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://subham-das.github.io/portfolio.html">    
+    <a href="https://subham-roan.vercel.app">    
         <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/subhamdas21">
@@ -87,18 +87,18 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/avishek-choudhary">
+  <a href="https://github.com/sdindic">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishek-choudhary&theme=transparent" />
   </a>
 </br>
-  <a href="https://github.com/avishek-choudhary">
+  <a href="https://github.com/sdindic">
     <img src="https://github-readme-streak-stats.herokuapp.com/?username=avishek-choudhary&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/avishek-choudhary">
+  <a href="https://github.com/sdindic">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avishek-choudhary&theme=transparent" />
   </a>
     </br>
-  <a href="https://github.com/avishek-choudhary">
+  <a href="https://github.com/sdindic">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek-choudhary&show_icons=true&layout=donut&langs_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0.5&count_weight=0.5" />
   </a>
 </p>
@@ -108,7 +108,7 @@
 - 🌱 I’m currently learning: <b><i>ML/DL</i></b> 
 - 👯 I’m looking to collaborate on: <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
-- 💬 Ask me about Football ⚽ 
+- 💬 Ask me about Tech ⚽ 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/subhamdas21">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
