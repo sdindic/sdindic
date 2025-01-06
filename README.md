@@ -105,10 +105,10 @@
 </details>
 
 - 🔭 I’m currently working on: <i><a href="https://github.com/sd-indic/Zoom-Electric">Zoom EV Sales Analysis</a></i>
-- 🌱 I’m currently learning: <b><i>ML/DL</i></b> 
+- 🌱 I’m currently learning: <b><i>ML</i></b> 
 - 👯 I’m looking to collaborate on: <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
-- 💬 Ask me about Tech ⚽ 
+- 💬 Ask me about Tech !
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/subhamdas21">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
